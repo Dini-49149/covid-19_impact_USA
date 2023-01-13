@@ -35,7 +35,7 @@ Data collection:
 3. US-Environment air pollution: United States Environmental Protection Agency (https://aqs.epa.gov/aqsweb/airdata/download_files.html)
 4. Trips by Distance: U.S. Department of Transportation (https://data.bts.gov/Research-and-Statistics/Trips-by-Distance/w96p-f2qv)
 
-Download the datasets used <a href="https://drive.google.com/file/d/1oo0rM7vc0oKXfJ4ACQOGy6xXMQVc_TOP/view?usp=share_link" target="_blank">here</a>
+Download the datasets used <a href="https://drive.google.com/file/d/1oo0rM7vc0oKXfJ4ACQOGy6xXMQVc_TOP/view?usp=share_link">here</a>
 
 ## Data description:
 ##### Air Pollutants merged with Covid 19: 
