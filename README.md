@@ -4,7 +4,7 @@ This research was carried out to know the impact of Covid-19 on the USA Air poll
 
 ## Introduction
 
-Since its discovery in Wuhan, China, in December 2019, the global pandemic known as Coronavirus disease 2019 (COVID-19) has had a significant impact on society and daily life, beginning in 2019 and intensifying significantly from 2020 to the foreseeable in ways that haven't been seen in recent years.
+Since Covid-19 discovery in Wuhan, China, in December 2019, the global pandemic known as Coronavirus disease 2019 (COVID-19) has had a significant impact on society and daily life, beginning in 2019 and intensifying significantly from 2020 to the foreseeable in ways that haven't been seen in recent years.
 Its implications on food and air have been extremely significant, leading to higher rates of food insecurity and improved air quality.
 
 ## Prerequisites to get started:
